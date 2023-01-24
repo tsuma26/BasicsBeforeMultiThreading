@@ -1,5 +1,5 @@
 # MutiThreadingInJava
-# Before going to start on multithreading
+# Before starting on multithreading
 
 This project is to document few concepts which are important you to understand before starting multi-threading. These concepts help us to create each thread more meaningful. But we will not be going into OS concepts like scheduling. These are just the basics before starting multithreading. Hope this helps.
 
